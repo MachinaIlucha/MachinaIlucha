@@ -1,9 +1,8 @@
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-### Hi there, I'm Illia 👋
+### Hi there, I'm Illia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 - 🔭 I’m currently working on **a lot of different stuff**
 - 🌱 I’m currently learning **everything I can get my hands on**
@@ -11,7 +10,7 @@
 - 📫 How to reach me: **pinchukillia03@gmail.com**
 - ⚡ Fun fact: **I love what I do - code and coffee**
 
-<h3 align="left">Connect with me:</h3>
+# 💻 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/illia-pinchuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="illia-pinchuk-b215a41a9" height="30" width="40" /></a>
 </p>
